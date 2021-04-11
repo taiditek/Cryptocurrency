@@ -1,0 +1,10 @@
+Okex_V3_API   
+Passphrase:  mjs6wdm3
+
+apikey = "241b2765-1064-4761-8e48-9f08c73dceeb"
+secretkey = "EBA4B97F1D38929E8B269E602F263DA6"
+IP = "0"
+备注名 = "Okex_V3_API"
+权限 = "只读/提币/交易"
+
+

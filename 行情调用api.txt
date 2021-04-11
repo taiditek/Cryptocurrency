@@ -1,0 +1,9 @@
+exchange.GetTicker()  获得行情
+exchange.GetDepth() 获得深度
+exchange.GetTrades() 获取交易所交易历史
+exchange.GetRecords() 返回一个K线历史
+exchange.GetAccount() 将返回交易所账户信息
+exchange.GetOrders() 获取所有未完成的订单
+exchange.GetOrder() 根据订单号获取订单详情
+exchange.GetPosition() 获取当前持仓信息
+

@@ -1,0 +1,10 @@
+apikey = "3cc22ad6-01f0-4d25-b99d-2d169cdf4a6d"
+secretkey = "90695608C5E05E369F8F140B44A60D1D"
+IP = "0"
+备注名 = "okex"
+权限 = "只读/交易"
+
+界面版 	地址: node.fmz.com/55505669   密码:Wang1136922 （本平台登录密码 ）
+
+
+ 
